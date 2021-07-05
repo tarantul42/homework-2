@@ -1,0 +1,77 @@
+header nav ul {
+    list-style: none;
+}
+.header-list {
+    color: cyan;
+}
+.next-class {
+    padding: 30px;
+    background-color: darkblue;
+}
+#main-box {
+    text-align: center;
+}
+/*artiicle*/
+.blog-article {
+    width: 50%;
+    float: left;
+    padding: 0 15px;
+    box-sizing: border-box;
+}
+.blog-article img {
+    width: 100%;
+}
+.blog-article a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #b4ad9e ;
+    font-size: 14px;
+    font-weight: 300;
+    margin: 30px 0;
+    display: block;
+}
+.blog-article h2 {
+    font-size: 30px;
+}
+/*body { 
+    color: #626262;
+    font-size: 14px;
+    width: 900px;
+    margin: 23%;
+    margin-top: 5%;
+}*/
+.nav-menu-item-active a {
+    text-decoration: none;
+}
+/* эксперименты с nav-menu */
+.footer-button {
+    text-align: center;
+}
+.nav-menu
+{
+	height: 200px;
+}
+.nav-menu-item-active
+{
+	height: 100px;
+	display: inline-block;
+	width: 25%;
+}
+.nav-menu-item-active-1
+{
+	height: 100px;
+	display: inline-block;
+	width: 25%;
+}
+.nav-menu-item-active-2
+{
+	height: 100px;
+	display: inline-block;
+	width: 25%;
+}
+.nav-menu-item-active-3
+{
+	height: 100px;
+	display: inline-block;
+	width: 25%;
+}
